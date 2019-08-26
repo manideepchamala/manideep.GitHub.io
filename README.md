@@ -20,9 +20,12 @@ Indian premier league is a professional T20 cricket league conducted in India be
 
 ![](images.jpg)
 - season2 - Deccan Chargers
+
 - season3 - Chennai SuperKings 
 ![](IPL-auction-LIVE-Latest-updates-Indian-Premier-League-910493.jpg)
 
 - season4 - Chennai superkings
+
 - season5 - Mumbai Indians
-- season6 - Chennai Superkings
+![](download (1).jpg)
+
