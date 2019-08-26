@@ -45,11 +45,11 @@ Indian premier league is a professional T20 cricket league conducted in India be
 ## Reference
 To refer you can please check the links given below:
 
-[IPL link](https://akm-img-a-in.tosshub.com/indiatoday/images/story/201903/iplcaptainspledge_2.png?y4inrlEFlqaNMuRmoFHEdXY6RMidL4BB)
+[IPL link](https://akm-img-a-in.tosshub.com/indiatoday/images/story/201903/iplcaptainspledge_2.png?y4inrlEFlqaNMuRmoFHEdXY6RMidL4BB).
 
-[IPL link2](https://www.outlookindia.com/public/upload_share/website/IPL-Captains-Twitter1_327480.jpg)
+[IPL link2](https://www.outlookindia.com/public/upload_share/website/IPL-Captains-Twitter1_327480.jpg).
 
-[IPL video](https://www.iplt20.com/video/144983/final-csk-vs-srh-match-highlights)
+[IPL video](https://www.iplt20.com/video/144983/final-csk-vs-srh-match-highlights).
 
 
 
