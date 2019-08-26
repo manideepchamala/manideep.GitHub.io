@@ -24,8 +24,7 @@ Indian premier league is a professional T20 cricket league conducted in India be
 - season3 - Chennai SuperKings 
 ![](IPL-auction-LIVE-Latest-updates-Indian-Premier-League-910493.jpg)
 
-- season4 - Chennai superkings
 
-- season5 - Mumbai Indians
+- season4 - Mumbai Indians
 ![](download (1).jpg)
 
