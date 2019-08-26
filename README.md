@@ -15,6 +15,19 @@ Indian premier league is a professional T20 cricket league conducted in India be
 7. RCB 
 8. Deccan Chargers
 
+## Leading runscorers
+
+1. Suresh Raina(csk)
+2. Virat Kohli(rcb)
+3. Chris Gayle(punjab)
+
+## Leading wickettakers
+ 
+- Dwayne Bravo(csk)
+- Lasith Malinga(mi)
+- Sunil Narine(kkr)
+
+
 ## Seasons and Winners 
 
 - season1 - Rajasthan Royals
