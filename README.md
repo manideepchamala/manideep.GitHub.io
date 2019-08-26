@@ -1,5 +1,6 @@
 # Indian Premier League
 ![](IPL-auction-LIVE-Latest-updates-Indian-Premier-League-910493.jpg)
+
 Indian premier league is a professional T20 cricket league conducted in India between 8-10 teams every summer for almost one and half month which has almost players from all countries.
 
 ## Teams in IPL
@@ -14,6 +15,7 @@ Indian premier league is a professional T20 cricket league conducted in India be
 
 ## Seasons and Winners 
 - season1 - Rajasthan Royals
+
 ![](images.jpg)
 - season2 - Deccan Chargers
 - season3 - Chennai SuperKings 
