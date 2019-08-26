@@ -4,6 +4,8 @@
 Indian premier league is a professional T20 cricket league conducted in India between 8-10 teams every summer for almost one and half month which has almost players from all countries.
 
 ## Teams in IPL
+![](noname-9.png)
+
 1. Chennai Super Kings
 2. Rajasthan Royals
 3. Kings XI Punjab
