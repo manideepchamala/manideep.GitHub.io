@@ -12,9 +12,9 @@ Indian premier league is a professional T20 cricket league conducted in India be
 8. Deccan Chargers
 
 ## Seasons and Winners 
-. season1 - Rajasthan Royals
-. season2 - Deccan Chargers
-. season3 - Chennai SuperKings 
-. season4 - Chennai superkings
-. season5 - Mumbai Indians
-. season6 - Chennai Superkings
+- season1 - Rajasthan Royals
+- season2 - Deccan Chargers
+- season3 - Chennai SuperKings 
+- season4 - Chennai superkings
+- season5 - Mumbai Indians
+- season6 - Chennai Superkings
